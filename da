@@ -1,0 +1,36 @@
+[33mcommit 6a37ba2e81ca95c1c304f690d0cffa33d57722c4[m[33m ([m[1;36mHEAD -> [m[1;32mronaldo[m[33m)[m
+Author: Gabs1405dragon <souzahenrique.gabriel@outlook.com>
+Date:   Fri Jun 17 18:35:15 2022 -0300
+
+    Uma nova branch criada
+
+[33mcommit 83bca720df7ad7635cbd9c5ae67c09c6722f8e70[m
+Merge: 120ffaf 0735a93
+Author: Gabs1405dragon <souzahenrique.gabriel@outlook.com>
+Date:   Fri Jun 17 16:39:20 2022 -0300
+
+    Merge branch 'main' into ronaldo
+
+[33mcommit 0735a93fe90cecef737655e5187f6a830e82e603[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Gabs1405dragon <souzahenrique.gabriel@outlook.com>
+Date:   Fri Jun 17 16:34:10 2022 -0300
+
+    alteracao no arquivo
+
+[33mcommit 120ffaf22622d4b38a6c4bb1b7acae10c57b971a[m[33m ([m[1;31morigin/ronaldo[m[33m)[m
+Author: Gabs1405dragon <souzahenrique.gabriel@outlook.com>
+Date:   Fri Jun 17 16:22:11 2022 -0300
+
+    Uma novo arquivo de texto adicionado na branch ronaldo
+
+[33mcommit 1aa76d8304f973643e78d960273196a023efd556[m
+Author: Gabs1405dragon <souzahenrique.gabriel@outlook.com>
+Date:   Fri Jun 17 16:18:00 2022 -0300
+
+    uma novo arquivo
+
+[33mcommit 18d9e774b28c157073e7dce552952f5511c539d3[m
+Author: Gabriel Henrique Assis de Souza <89558456+Gabs1405dragon@users.noreply.github.com>
+Date:   Fri Jun 17 16:11:17 2022 -0300
+
+    Initial commit
